@@ -11,7 +11,7 @@ Computer
 	Laptop
 	Tablet
 	Smartphone
-Pack
+[[Workspaces/Scenario/Pack|Pack]]
 	Backpack
 	Suitcase
 	Run Pack
