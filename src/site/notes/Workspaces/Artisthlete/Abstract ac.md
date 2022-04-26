@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/workspaces/artisthlete/abstract-ac/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-permalink":"abstract","permalink":"/abstract/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 
