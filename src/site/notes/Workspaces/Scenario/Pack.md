@@ -10,6 +10,5 @@ PACK
 Ready.
 ```
 
-```ad-note
+>[!NOTE]
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla.
-```
