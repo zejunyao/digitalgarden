@@ -6,7 +6,7 @@
 # artisthlete.ac
 
 
-- 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
@@ -30,6 +30,8 @@ On developing the concluding live project, this practice-led thesis deploys as a
 The thesis will be completed and submitted in a bound though detachable, paperback form underpinning the format of knowledge graph accompanied with its dynamic e-thesis version.
 
 </div></div>
+
+
 
 - Venues
 - Equipment & Materials
