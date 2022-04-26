@@ -9,3 +9,7 @@ test pack
 PACK
 Ready.
 ```
+
+```ad-note
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla.
+```
