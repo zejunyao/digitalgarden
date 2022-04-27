@@ -15,6 +15,13 @@
 - Equipment & Materials
 
 ---
-Zejun Yao  
-Practice-led PhD candidate, University of Leeds  
-Last update: 2022-04-26 22:03
+```html
+<div class="content">
+<hr>
+<center><h2>artisthlete.ac</h2></center>
+<p style="text-align:center; font-size: x-small">© 2022 ZEJUN YAO <br />All rights reserved. <br />
+<br />
+Last update: 2022-04-27</p>
+
+</div>
+```
