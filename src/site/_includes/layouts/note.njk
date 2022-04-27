@@ -13,7 +13,7 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
 
     <div class="content">
       {% if dgHomeLink !== false%}
-        <a href="/">artisthlete.ac</a>
+        <a href="/">artisthlete.ac</a> - {{ page.fileSlug }}
       {% endif %}
       {{ content | link | highlight | safe}}
     </div>
