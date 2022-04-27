@@ -14,7 +14,6 @@
 - Venues
 - Equipment & Materials
 
----
 <div class="content">
 <hr>
 <center><h2>artisthlete.ac</h2></center>
