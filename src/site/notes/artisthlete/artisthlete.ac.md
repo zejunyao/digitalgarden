@@ -15,7 +15,6 @@
 - Equipment & Materials
 
 ---
-```html
 <div class="content">
 <hr>
 <center><h2>artisthlete.ac</h2></center>
@@ -24,4 +23,3 @@
 Last update: 2022-04-27</p>
 
 </div>
-```
