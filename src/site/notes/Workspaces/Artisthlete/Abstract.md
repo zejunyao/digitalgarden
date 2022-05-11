@@ -16,3 +16,5 @@ Since the doctoral programme debut, the research saw a series of practice-based 
 On developing the concluding live project, this practice-led thesis deploys as a form of a trifunctional ‘playbook’: It situates the representation of hypothetical cinematography and ‘mise en scène’ through the the forms of film script; serves as a performative score collection for the reader to undertake active participation in a manner of asymptotic narrative and analysis, and finally, it presents the framework of a four-year research trajectory as thinking process in action rather than a practice-led chronology and archive.
 
 The thesis will be completed and submitted in a bound though detachable, paperback form underpinning the format of knowledge graph accompanied with its dynamic e-thesis version.
+
+[[artisthlete/Characters|Characters]]
