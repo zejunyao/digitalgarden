@@ -4,9 +4,6 @@
 
 ---
 
-
-```html
-
 <article>
 <section>
 <div id='script-title'><p class='title'>**Champ-contrechamp**<br></p><p class='credit'>written by<br></p><p class='authors'>Zejun Yao<br><br>based on the novel by<br><br>J<br></p><p class='source'>Collaborative performance series <br></p><aside class="contactinfo"><p class='draft date'>4 April 2022<br></p></aside></div><p class='page-break'>1.</p>
@@ -270,6 +267,5 @@ Thank you for the steps, words and moments in the field everyone. I look forward
 </article>
 
 
-```
 
 [[artisthlete/Characters|Characters]]
