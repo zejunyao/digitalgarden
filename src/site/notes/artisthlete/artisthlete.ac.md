@@ -10,6 +10,7 @@
 
 - [[Workspaces/Artisthlete/Abstract|Abstract]]
 - [[artisthlete/Beatsheet|Beatsheet]]
+- [[artisthlete/Scenario|Scenario]]
 - Events & Scores
 	- Game One, Two and On
 	- Reverie
