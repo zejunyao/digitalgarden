@@ -6,25 +6,6 @@
 
 <article>
 <section>
-<div id='script-title'><p class='title'>**Champ-contrechamp**<br></p><p class='credit'>written by<br></p><p class='authors'>Zejun Yao<br><br>based on the novel by<br><br>J<br></p><p class='source'>Collaborative performance series <br></p><aside class="contactinfo"><p class='draft date'>4 April 2022<br></p></aside></div><p class='page-break'>1.</p>
-<p class='action'> </p>
-<p class='action'>[20220328 Champ-contrechamp](assets/20220328 Champ-contrechamp.png)</p>
-</section>
-<section>
-<p class='page-break'>2.</p>
-<p class='action center'><strong>Abstract</strong></p>
-<p class='action'>This thesis intends to explore both intellectual and physical challenges between art and sport performance in the context of mass participation. By connecting these two fields of practice, the emerged hybrid term, ‘artisthlete’ – which does require both cognitive and bodily effort – emphasises a specific form of engagement by participants in generating potential and new forms of knowledge in the context of the collaborative arts practice. </p>
-<p class='action'>Current and previous institution-related art workshops or activities tend to highlight a preference for theory-dependence of observation and ‘work’ in relation to mass cultural participation as opposed to the habitual ‘course of action’ and ‘labour’ which ordinarily relates to community-based dance associations or sport clubs. The question behind the problematics to ask of the convention of practice, is whether those collaborative manoeuvres can profoundly discuss and exercise the knowledge being distributed collectively. Therefore, from my perspective as a fine art practitioner and university endurance athlete-coach, I purpose the aim of this trans-disciplinary research is to establish understandings of mass participation through performance-based live demonstration involved with academics across institutions and public volunteers from amateur or vocational ‘practice’ background. The critical point is to not merely focus on the artistic or sportive outcome but to offer both the viewer and participants a device to activate or reconsider the naturalisation of ‘physical literacy’ (Whitehead) and the ‘inter-human game’ as ‘a collective sport’ (Bourriaud).</p>
-<p class='action'>Since the doctoral programme debut, the research saw a series of practice-based projects assigning to performance, installation, artistis’book, film and photography. The consistent fieldwork determines the project <em>Artisthlete</em> itself to contemplate the fundamental physio-variables in producing quantities, duration, frequency and ‘heartbeat of motion’ in relation to art, sport and the interdependence in-between. </p>
-<p class='action'>On developing the concluding live project, this practice-led thesis deploys as a form of a trifunctional ‘playbook’: It situates the representation of hypothetical cinematography and ‘mise en scène’ through the the forms of film script; serves as a performative score collection for the reader to undertake active participation in a manner of asymptotic narrative and analysis, and finally, it presents the framework of a four-year research trajectory as thinking process in action rather than a practice-led chronology and archive.</p>
-<p class='page-break'>3.</p>
-<p class='action'>The thesis will be completed and submitted in a bound though detachable, paperback form underpinning the format of knowledge graph accompanied with its dynamic e-thesis version.</p>
-</section>
-<section>
-<p class='page-break'>4.</p>
-<p class='action'><strong>Champ-contrechamp<em>* is a piece of film script written both *a priori* and *a posteriori* for *</em>a Field Trip</strong>. It voices a part of Yao’s final practice-led doctoral thesis.</p>
-</section>
-<section>
 <p class='page-break'>5.</p>
 <p class='action'>Tu as toujours écrit jusqu’à present, et tu continueras. Ce qu’il faut c’est écrire une seule phrase vraie. Écris la phrase la plus vraie que tu connaisses. </p>
 <p class='action'>You have always written before and you will write now. All you have to do is write one true sentence. Write the truest sentence that you know. </p>
