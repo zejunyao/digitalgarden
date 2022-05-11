@@ -247,6 +247,6 @@ Thank you for the steps, words and moments in the field everyone. I look forward
 </section>
 </article>
 
-
+  
 
 [[artisthlete/Characters|Characters]]
