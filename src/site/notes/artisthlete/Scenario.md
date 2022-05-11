@@ -4,7 +4,7 @@
 
 ---
 
-```fountain
+
 
 
 The Conversation I
@@ -47,7 +47,5 @@ NARRATOR
 End of Conversation I.
 
 ===
-
-```
 
 [[artisthlete/Characters|Characters]]
