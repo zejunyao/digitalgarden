@@ -24,7 +24,7 @@
 - Equipment & Materials
 - [[artisthlete/Pistes|Pistes]]
 - Author
-- [[artisthlete/image test|image test]]
+- [[artisthlete/image test|image test]] test
 
 <div class="content">
 <hr>
