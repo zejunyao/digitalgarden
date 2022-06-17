@@ -9,6 +9,7 @@
 
 - Project
 	- artisthlete
+	- [[LetJunRun/about|about]]
 
 ###### Elsewhere
 
