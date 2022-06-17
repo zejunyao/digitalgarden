@@ -5,7 +5,7 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>{{ page.fileSlug }} - artisthlete.ac</title>
+    <title>{{ page.fileSlug }}</title>
     {%include "components/pageheader.njk"%}
   </head>
   <body class="theme-{{meta.baseTheme}} markdown-preview-view">
@@ -13,14 +13,9 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
 
     <div class="content">
       {% if dgHomeLink !== false%}
-        <a href="/">artisthlete.ac</a>
+        <a href="/">🏡 Back Home</a>
       {% endif %}
       {{ content | link | highlight | safe}}
-    </div>
-    <div class="content">
-    <hr>
-    <center><h2>artisthlete.ac</h2></center>
-    <p style="text-align:center; font-size: x-small">© 2022 ZEJUN YAO <br />All rights reserved.</p>
     </div>
   </body>
 </html>
