@@ -5,8 +5,6 @@
 
 # About
 
-test
-
 > Each of us has an inner flame that shines a little stronger in the space of a moment, and whose light suddenly shines on the outside, it is what I do not want to lose. I think I can call it humanity, something common amongst us all, something spectacular which can affect us all personally.
 
 Zejun “Jun” Yao is an ~~interdisciplinary~~ __artisthlete__. He identifies his practice as medium to address and demonstrate the artefact and process of contemporary art making on public participation and artistic collaboration, his current doctoral research focuses on the production of knowledge which requests and responds culturally and artistically to the emerging field of Running Studies. Yao’s stance is driven by an interest in the multi-sensory and perceptive, primarily addressing audiovisual techniques and cinematographic aesthetics. His work often takes the form of performances and installations that use bodily gestures and movements including dance, gymnastics and sport.  
