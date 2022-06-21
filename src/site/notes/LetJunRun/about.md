@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/let-jun-run/about/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/let-jun-run/about/","dgHomeLink":false,"dgPassFrontmatter":false}
 ---
 
 
