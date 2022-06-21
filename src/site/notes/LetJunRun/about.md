@@ -3,7 +3,7 @@
 ---
 
 
-# About
+# [[LetJunRun/LetJunRun|Home]] - About
 
 > Each of us has an inner flame that shines a little stronger in the space of a moment, and whose light suddenly shines on the outside, it is what I do not want to lose. I think I can call it humanity, something common amongst us all, something spectacular which can affect us all personally.
 
