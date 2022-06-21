@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/let-jun-run/let-jun-run/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/let-jun-run/let-jun-run/","tags":"gardenEntry","dgHomeLink":false,"dgPassFrontmatter":false}
 ---
 
 
