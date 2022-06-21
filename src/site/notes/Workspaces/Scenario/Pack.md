@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/workspaces/scenario/pack/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/workspaces/scenario/pack/","dgHomeLink":false,"dgPassFrontmatter":false}
 ---
 
 
