@@ -3,12 +3,4 @@
 ---
 
 
-```fountain
-
-.INT - PLACE - DAY
-
-TOSHI
-Whare are you heading to?
-
->CUT TO
-```
+![[Big Fish.pdf]]
