@@ -21,3 +21,12 @@
 - [Twitter](https://twitter.com/zejunyao)
 - [Instagram](https://www.instagram.com/zejunyao)
 - [Spotify](https://open.spotify.com/user/junnnnnnn)
+
+<div class="content">
+<hr>
+<center><h2>Let Jun Run</h2></center>
+<p style="text-align:center; font-size: x-small">© 2022 ZEJUN YAO <br />
+<br />
+</p>
+
+</div>
